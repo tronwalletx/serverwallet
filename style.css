@@ -1,0 +1,6 @@
+.list-light-grey-dotted-side-menu {
+    background-image: radial-gradient(#CBD0D1 12%, transparent 12%),radial-gradient(#CBD0D1 12%, transparent 12%);
+    background-color: #f5f5f5;
+    background-position: 0 0, 0 0;
+    background-size: 20px 20px;
+}
